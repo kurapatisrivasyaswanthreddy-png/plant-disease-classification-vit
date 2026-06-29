@@ -174,7 +174,7 @@ Data augmentation applied during training: random horizontal flip, random rotati
 ```
 .
 ├── code/
-│   └── code.txt             # Full training script
+│   └── train.py             # Full training script
 ├── results/
 │   ├── metrics.json         # Loss and accuracy per epoch
 │   ├── classes.txt          # All 22 class names
